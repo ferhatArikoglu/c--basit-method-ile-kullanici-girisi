@@ -1,0 +1,16 @@
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\bin\Debug\netcoreapp3.1\admingiris.exe
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\bin\Debug\netcoreapp3.1\admingiris.deps.json
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\bin\Debug\netcoreapp3.1\admingiris.runtimeconfig.json
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\bin\Debug\netcoreapp3.1\admingiris.runtimeconfig.dev.json
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\bin\Debug\netcoreapp3.1\admingiris.dll
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\bin\Debug\netcoreapp3.1\admingiris.pdb
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.csproj.AssemblyReference.cache
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.Form1.resources
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.csproj.GenerateResource.cache
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.AssemblyInfoInputs.cache
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.AssemblyInfo.cs
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.csproj.CoreCompileInputs.cache
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.dll
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.pdb
+C:\Users\Ferhat ARIKOĞLU\Desktop\c# ileri seviyeye adım\metod örnekleri\admingiris\admingiris\obj\Debug\netcoreapp3.1\admingiris.genruntimeconfig.cache
